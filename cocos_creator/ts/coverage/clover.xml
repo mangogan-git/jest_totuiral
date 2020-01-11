@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1578729058808" clover="3.2.0">
+  <project timestamp="1578729058808" name="All files">
+    <metrics statements="9" coveredstatements="9" conditionals="7" coveredconditionals="5" methods="2" coveredmethods="2" elements="18" coveredelements="16" complexity="0" loc="9" ncloc="9" packages="1" files="1" classes="1"/>
+    <file name="btnHandler.ts" path="/Users/mangogan/workspace/github/jest_totuiral/cocos_creator/ts/assets/btnHandler.ts">
+      <metrics statements="9" coveredstatements="9" conditionals="7" coveredconditionals="5" methods="2" coveredmethods="2"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="4" count="2" type="cond" truecount="3" falsecount="0"/>
+      <line num="7" count="2" type="stmt"/>
+      <line num="10" count="2" type="stmt"/>
+      <line num="12" count="1" type="stmt"/>
+      <line num="13" count="1" type="stmt"/>
+      <line num="14" count="1" type="cond" truecount="1" falsecount="1"/>
+      <line num="15" count="1" type="cond" truecount="1" falsecount="1"/>
+      <line num="18" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
