@@ -1,4 +1,4 @@
-import { add } from '../src/add';
+import add from '../src/add';
 
 describe('testing my function', () => {
     test('2+3', () => {
