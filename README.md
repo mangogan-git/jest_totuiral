@@ -1,4 +1,4 @@
-Jest 簡單介紹與搭配 cocos creator(v2.2) 使用
+Jest 簡單介紹與搭配 cocos creator(v2.2) 使用  
 Jest Intro & with cocos creator 2.2
 
 slides https://slides.com/mangogan/jestxccc
