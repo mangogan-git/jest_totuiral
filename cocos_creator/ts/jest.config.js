@@ -1,6 +1,5 @@
 module.exports = {
     preset: 'ts-jest',
-    testEnvironment: 'node',
     collectCoverageFrom: ['<rootDir>/assets/**/*.ts'],
     setupFiles: [
         'jest-canvas-mock', // npm 套件只需要名稱
